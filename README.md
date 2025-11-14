@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Hemant<br>🧠 Currently working on:<br>SenseiPrism – A Cognitive Insight AI Tool<br>→ Understand how digital content impacts your mind using ML, NLP, and <br>real-time analysis.<br>React + Node.js + Python + Whisper + HuggingFace.<br><br>🤝 Looking to collaborate on:<br>Open-source projects at the intersection of AI × Psychology × Productivity<br>If you're into building tools that analyze, guide, or enhance digital well-being, let’s connect!
+👋 Hi there! I'm grrŕrrrrř
 
 
 ## 🌐 Socials:
